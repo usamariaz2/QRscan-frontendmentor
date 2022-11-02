@@ -3,8 +3,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  Screenshot of QRscan code for desktop  mode .
 ![Screenshot (23)](https://user-images.githubusercontent.com/93404761/199434820-7cb34ac5-4ba7-4173-bccf-10518c12247c.png)
 
-- Solution URL: https://usamariaz2.github.io/QRscan-frontendmentor/
-- Live Site URL: https://github.com/usamariaz2/QRscan-frontendmentor
+- Solution URL: https://github.com/usamariaz2/QRscan-frontendmentor 
+- Live Site URL: https://usamariaz2.github.io/QRscan-frontendmentor/
 
 #Build with
  -Semantic HTML5 markup
